@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
-  background-image: url('/Users/sawabhayder/Desktop/470Website/eberhard-grossgasteiger-NvesrDbsrL4-unsplash.jpg'); /* Replace with your image path */
+  background-image: url('eberhard-grossgasteiger-NvesrDbsrL4-unsplash.jpg'); /* Replace with your image path */
   background-size: cover;
   background-attachment: fixed;
 }
